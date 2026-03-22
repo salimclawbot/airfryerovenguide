@@ -1,0 +1,15 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "has": [
+        {
+          "type": "host",
+          "value": "www.airfryerzone.com"
+        }
+      ],
+      "destination": "https://airfryerzone.com/:path*",
+      "permanent": true
+    }
+  ]
+}

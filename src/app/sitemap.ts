@@ -1,7 +1,7 @@
 import { MetadataRoute } from "next";
 import { getAllSlugs } from "@/lib/articles";
 export default function sitemap(): MetadataRoute.Sitemap {
-  const baseUrl = "https://officechairpicks.vercel.app";
+  const baseUrl = "https://airfryerzone.com";
   const slugs = getAllSlugs();
   return [
     ...["", "about", "contact", "privacy", "affiliate-disclosure"].map((p) => ({
