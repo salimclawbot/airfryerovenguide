@@ -21,7 +21,13 @@ faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"
 
 ---
 
+![Pour Over vs French Press: Which Makes Better Coffee?: hero image for this section](/images/articles/pour-over-vs-french-press-hero.jpg)
+*Hero visual for this section*
+
 ## Table of Contents
+![Pour Over vs French Press: Which Makes Better Coffee?: comparison image for Table of Contents](/images/articles/pour-over-vs-french-press-comparison.jpg)
+*Comparison visual for Table of Contents*
+
 
 1. [How Each Method Works](#how-each-method-works)
 
@@ -44,6 +50,9 @@ faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"
 ---
 
 ## How Each Method Works
+![Pour Over vs French Press: Which Makes Better Coffee?: infographic image for How Each Method Works](/images/articles/pour-over-vs-french-press-infographic.jpg)
+*Infographic visual for How Each Method Works*
+
 
 Understanding the mechanics behind each brewing method is essential for choosing the right one. Pour over and French press represent two fundamentally different extraction philosophies — percolation versus immersion — and that distinction shapes everything from grind size to final cup character.
 
@@ -68,6 +77,9 @@ The simplicity of French press is its greatest strength. There is no pouring tec
 ---
 
 ## Taste and Flavor Profile Comparison
+![Pour Over vs French Press: Which Makes Better Coffee?: setup image for Taste and Flavor Profile Comparison](/images/articles/pour-over-vs-french-press-setup.jpg)
+*Setup visual for Taste and Flavor Profile Comparison*
+
 
 This is where the two methods diverge most dramatically, and where your personal preference will ultimately decide the winner.
 
@@ -96,6 +108,9 @@ One important consideration: the oils that give French press its characteristic 
 ---
 
 ## Equipment You Need
+![Pour Over vs French Press: Which Makes Better Coffee?: detail image for Equipment You Need](/images/articles/pour-over-vs-french-press-detail.jpg)
+*Detail visual for Equipment You Need*
+
 
 ### Pour Over Equipment
 
@@ -114,6 +129,9 @@ For a deeper dive into grinder selection, see our [best coffee grinder for home]
 ---
 
 ## Best Pour Over and French Press Products
+![Pour Over vs French Press: Which Makes Better Coffee?: lifestyle image for Best Pour Over and French Press Products](/images/articles/pour-over-vs-french-press-lifestyle.jpg)
+*Lifestyle visual for Best Pour Over and French Press Products*
+
 
 Here are five products that cover both methods, selected based on build quality, brew performance, and value. Each one has been tested by our team over multiple weeks of daily use.
 
@@ -199,6 +217,9 @@ Here are five products that cover both methods, selected based on build quality,
 ---
 
 ## Step-by-Step Brewing Guides
+![Pour Over vs French Press: Which Makes Better Coffee?: product lineup image for Step-by-Step Brewing Guides](/images/articles/pour-over-vs-french-press-product-lineup.jpg)
+*Product Lineup visual for Step-by-Step Brewing Guides*
+
 
 ### How to Brew Pour Over Coffee
 
@@ -255,6 +276,9 @@ Your browser does not support HTML5 video.
 ---
 
 ## Head-to-Head Comparison Table
+![Pour Over vs French Press: Which Makes Better Coffee?: tips image for Head-to-Head Comparison Table](/images/articles/pour-over-vs-french-press-tips.jpg)
+*Tips visual for Head-to-Head Comparison Table*
+
 
 <div style="overflow-x:auto;margin:2rem 0;">
 

@@ -31,7 +31,13 @@ article_schema: null
 
 ---
 
+![How to Froth Milk at Home Without a Machine (5 Easy Methods): hero image for this section](/images/articles/how-to-froth-milk-at-home-hero.jpg)
+*Hero visual for this section*
+
 ## Table of Contents
+![How to Froth Milk at Home Without a Machine (5 Easy Methods): comparison image for Table of Contents](/images/articles/how-to-froth-milk-at-home-comparison.jpg)
+*Comparison visual for Table of Contents*
+
 
 - [Why Milk Frothing Matters](#why-milk-frothing-matters)
 - [The Science Behind Milk Foam](#the-science-behind-milk-foam)
@@ -51,6 +57,9 @@ article_schema: null
 ---
 
 ## Why Milk Frothing Matters {#why-milk-frothing-matters}
+![How to Froth Milk at Home Without a Machine (5 Easy Methods): infographic image for Why Milk Frothing Matters {#why-milk-frothing-matters}](/images/articles/how-to-froth-milk-at-home-infographic.jpg)
+*Infographic visual for Why Milk Frothing Matters {#why-milk-frothing-matters}*
+
 
 There's a measurable difference between a cup of coffee with poured milk and one with properly frothed milk. It's not just aesthetic — though the velvety microfoam layer does make a difference in presentation. The texture of frothed milk fundamentally changes how you taste your coffee.
 
@@ -68,6 +77,9 @@ This guide walks through five proven techniques, explains what makes each one wo
 ---
 
 ## The Science Behind Milk Foam {#the-science-behind-milk-foam}
+![How to Froth Milk at Home Without a Machine (5 Easy Methods): setup image for The Science Behind Milk Foam {#the-science-behind-milk-foam}](/images/articles/how-to-froth-milk-at-home-setup.jpg)
+*Setup visual for The Science Behind Milk Foam {#the-science-behind-milk-foam}*
+
 
 Before diving into methods, a quick primer on why milk froths at all — because this explains why some milks froth better than others, and why temperature matters so much.
 
@@ -87,6 +99,9 @@ This is why scalded milk — overheated milk that's been boiled — simply won't
 ---
 
 ## Method 1: The Mason Jar Shake {#method-1-the-mason-jar-shake}
+![How to Froth Milk at Home Without a Machine (5 Easy Methods): detail image for Method 1: The Mason Jar Shake {#method-1-the-mason-jar-shake}](/images/articles/how-to-froth-milk-at-home-detail.jpg)
+*Detail visual for Method 1: The Mason Jar Shake {#method-1-the-mason-jar-shake}*
+
 
 **Best for:** Anyone who wants zero equipment and is willing to do a little arm work.
 **Foam quality:** ★★★☆☆ — Light and airy, less dense than steam-wand foam.
@@ -116,6 +131,9 @@ This is the most accessible method and requires only a glass jar with a tight-fi
 ---
 
 ## Method 2: The French Press Pump {#method-2-the-french-press-pump}
+![How to Froth Milk at Home Without a Machine (5 Easy Methods): lifestyle image for Method 2: The French Press Pump {#method-2-the-french-press-pump}](/images/articles/how-to-froth-milk-at-home-lifestyle.jpg)
+*Lifestyle visual for Method 2: The French Press Pump {#method-2-the-french-press-pump}*
+
 
 **Best for:** Anyone who already owns a French press coffee maker.
 **Foam quality:** ★★★★☆ — Dense and creamy, closer to proper microfoam.
@@ -149,6 +167,9 @@ This is arguably the best no-gadget frothing method. The French press plunger is
 ---
 
 ## Method 3: Whisk or Hand Mixer {#method-3-whisk-or-hand-mixer}
+![How to Froth Milk at Home Without a Machine (5 Easy Methods): product lineup image for Method 3: Whisk or Hand Mixer {#method-3-whisk-or-hand-mixer}](/images/articles/how-to-froth-milk-at-home-product-lineup.jpg)
+*Product Lineup visual for Method 3: Whisk or Hand Mixer {#method-3-whisk-or-hand-mixer}*
+
 
 **Best for:** People comfortable at the stovetop who want hands-on control.
 **Foam quality:** ★★★☆☆ — Good volume, coarser bubbles than French press method.
@@ -177,6 +198,9 @@ A standard wire balloon whisk or a handheld electric mixer can produce surprisin
 ---
 
 ## Method 4: Stovetop Saucepan Froth {#method-4-stovetop-saucepan-froth}
+![How to Froth Milk at Home Without a Machine (5 Easy Methods): tips image for Method 4: Stovetop Saucepan Froth {#method-4-stovetop-saucepan-froth}](/images/articles/how-to-froth-milk-at-home-tips.jpg)
+*Tips visual for Method 4: Stovetop Saucepan Froth {#method-4-stovetop-saucepan-froth}*
+
 
 **Best for:** People who want very light, airy foam similar to hot chocolate froth.
 **Foam quality:** ★★☆☆☆ — Light and serviceable; works better for macchiatos and café-au-lait style drinks.

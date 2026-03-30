@@ -19,7 +19,13 @@ faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"
 
 ---
 
+![Best Burr Grinder for Home Use (2026): hero image for this section](/images/articles/best-burr-grinder-home-use-hero.jpg)
+*Hero visual for this section*
+
 ## Table of Contents
+![Best Burr Grinder for Home Use (2026): comparison image for Table of Contents](/images/articles/best-burr-grinder-home-use-comparison.jpg)
+*Comparison visual for Table of Contents*
+
 
 - [Burr Grinder vs Blade Grinder: Why It Matters](#burr-grinder-vs-blade-grinder-why-it-matters)
 - [Conical vs Flat Burr: What's the Difference?](#conical-vs-flat-burr-whats-the-difference)
@@ -33,6 +39,9 @@ faq_schema: '{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"
 ---
 
 ## Burr Grinder vs Blade Grinder: Why It Matters
+![Best Burr Grinder for Home Use (2026): infographic image for Burr Grinder vs Blade Grinder: Why It Matters](/images/articles/best-burr-grinder-home-use-infographic.jpg)
+*Infographic visual for Burr Grinder vs Blade Grinder: Why It Matters*
+
 
 Walk into any coffee shop and you won't find a blade grinder. There's a reason for this.
 
@@ -61,6 +70,9 @@ Yes. A blind taste test study conducted by the Specialty Coffee Association foun
 ---
 
 ## Conical vs Flat Burr: What's the Difference?
+![Best Burr Grinder for Home Use (2026): setup image for Conical vs Flat Burr: What's the Difference?](/images/articles/best-burr-grinder-home-use-setup.jpg)
+*Setup visual for Conical vs Flat Burr: What's the Difference?*
+
 
 Both types crush coffee to a consistent size, but they do it differently — and the difference matters to serious home baristas.
 
@@ -111,6 +123,9 @@ Flat burr grinders shine at the $400+ price point for dedicated espresso use. Be
 ---
 
 ## Best Burr Grinders Under $100
+![Best Burr Grinder for Home Use (2026): detail image for Best Burr Grinders Under $100](/images/articles/best-burr-grinder-home-use-detail.jpg)
+*Detail visual for Best Burr Grinders Under $100*
+
 
 This price range has improved dramatically. Five years ago, the under-$100 burr grinder market was full of mediocre products. Today, several excellent options exist — particularly for filter coffee.
 
@@ -155,6 +170,9 @@ This price range has improved dramatically. Five years ago, the under-$100 burr 
 ---
 
 ## Best Burr Grinders $100–$300
+![Best Burr Grinder for Home Use (2026): lifestyle image for Best Burr Grinders $100–$300](/images/articles/best-burr-grinder-home-use-lifestyle.jpg)
+*Lifestyle visual for Best Burr Grinders $100–$300*
+
 
 This is the sweet spot for most home baristas. At $150–$250, you get a grinder that can handle both filter coffee and (with some adjustment) acceptable espresso.
 
@@ -214,6 +232,9 @@ If you're thinking about coffee station organisation tips for home baristas, [ho
 ---
 
 ## Best Burr Grinders $300+
+![Best Burr Grinder for Home Use (2026): product lineup image for Best Burr Grinders $300+](/images/articles/best-burr-grinder-home-use-product-lineup.jpg)
+*Product Lineup visual for Best Burr Grinders $300+*
+
 
 At this price point, you're investing in a grinder that will likely outlast your espresso machine. The grinder is arguably the most important piece of equipment in any home espresso setup.
 
@@ -246,6 +267,9 @@ For more on home espresso setups, see our guides to the [best espresso machine f
 ---
 
 ## Grind Settings Guide by Brew Method
+![Best Burr Grinder for Home Use (2026): tips image for Grind Settings Guide by Brew Method](/images/articles/best-burr-grinder-home-use-tips.jpg)
+*Tips visual for Grind Settings Guide by Brew Method*
+
 
 One of the most confusing aspects of buying a grinder is understanding which grind setting to use. Here is a comprehensive reference:
 
