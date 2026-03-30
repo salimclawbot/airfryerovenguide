@@ -39,8 +39,6 @@ function parseJsonField(value: unknown): Record<string, unknown> | null {
 
 function processContent(raw: string): string {
   let processed = raw;
-  // Strip heading ID syntax {#...}
-  processed = processed.replace(/\{#[^}]+\}/g, "");
   processed = processed.trimStart().replace(/^#\s+.*\n+/, "");
   processed = processed.replace(/\[INTERNAL:\s*([\w-]+)\]\((.*?)\)/g, "[$2](/$1)");
   processed = processed.replace(/\[INTERNAL:\s*([\w-]+)\]/g, "[$1](/$1)");
@@ -59,7 +57,7 @@ export async function getArticle(slug: string): Promise<Article | null> {
   const result = await remark().use(remarkGfm).use(html, { sanitize: false }).process(content);
 
   const title = (data.title as string) || slug;
-  const description = (data.meta_description as string) || "Office chair buying guide article.";
+  const description = (data.meta_description as string) || (data.description as string) || "Expert air fryer guides, reviews, and cooking tips.";
   const author = (data.author as string) || "Marcus Webb, Kitchen Appliance Expert";
   const date = (data.datePublished as string) || "2026-03-11";
   const dateModified = (data.dateModified as string) || date;
@@ -67,10 +65,18 @@ export async function getArticle(slug: string): Promise<Article | null> {
 
   let htmlContent = result.toString();
 
-  htmlContent = htmlContent.replace(/<(h[2-4])>(.*?)<\/\1>/g, (match, tag, text) => {
-    const cleanText = text.replace(/<[^>]+>/g, "");
-    const id = toSlug(cleanText);
-    return `<${tag} id="${id}">${text}</${tag}>`;
+  htmlContent = htmlContent.replace(/<(h[2-6])>(.*?)<\/\1>/g, (match: string, tag: string, text: string) => {
+    const customIdMatch = text.match(/\{#([^}]+)\}/);
+    let id: string;
+    let displayText = text;
+    if (customIdMatch) {
+      id = customIdMatch[1];
+      displayText = text.replace(/\s*\{#[^}]+\}/, '');
+    } else {
+      const cleanText = text.replace(/<[^>]+>/g, "");
+      id = toSlug(cleanText);
+    }
+    return `<${tag} id="${id}">${displayText}</${tag}>`;
   });
 
   const excerptMatch = parsed.content.match(/\*\*(.*?)\*\*/);
