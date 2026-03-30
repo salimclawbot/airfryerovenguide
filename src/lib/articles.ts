@@ -97,7 +97,8 @@ export function getAllSlugs(): string[] {
   return fs
     .readdirSync(CONTENT_DIR)
     .filter((f) => f.endsWith(".md"))
-    .map((f) => f.replace(/\.md$/, ""));
+    .map((f) => f.replace(/\.md$/, ""))
+    .filter((slug) => /(coffee|espresso|brew|grinder|bean|latte|cappuccino|pour-over|french-press|cold-brew|single-serve|keurig|nespresso)/i.test(slug));
 }
 
 export async function getAllArticles(): Promise<Article[]> {

@@ -359,7 +359,7 @@ A dedicated cold brew maker simplifies the process — built-in filters eliminat
 
 This is what most coffee enthusiasts end up doing. Keep a jar of cold brew concentrate in the refrigerator for quick weekday mornings — pour, dilute, add milk, and go. On weekends, take the time to brew a Japanese iced coffee or pull espresso shots over ice when you want something more vibrant and aromatic. The two drinks complement each other rather than competing.
 
-<img src="/images/articles/cold-brew-vs-iced-coffee-whats-the-difference-gallery-1.jpg" alt="Variety of cold coffee drinks arranged on a table" width="800" height="450" loading="lazy" />
+
 <figcaption>Cold brew and iced coffee are not competitors — most coffee lovers enjoy both depending on mood, time, and occasion.</figcaption>
 
 ---
